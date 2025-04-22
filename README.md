@@ -1,6 +1,9 @@
 # COMP560 Final Project
 **Ryan Huang, Wei Jiang**  
 
+# Presentation
+https://docs.google.com/presentation/d/1d1_1Z8bQ6e_qwZeG6i4aYrif0xxZQZmw9Li0ckrIKs4/edit?usp=sharing
+
 # Financial Statement Fraud Detection  
 
 ## Abstract  
