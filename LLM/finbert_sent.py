@@ -67,7 +67,7 @@ def process_sentiment_for_directory(dir_path, tokenizer, model):
 # Main script to iterate through each year directory
 def main():
     # Set the base directory containing the year folders
-    base_dir = '/home/r_huang3/GraLNA/New/LLM/annualreport'
+    base_dir = '~/New/LLM/annualreport'
 
     # Load the FinBERT tokenizer and model
     tokenizer = AutoTokenizer.from_pretrained('ProsusAI/finbert')
