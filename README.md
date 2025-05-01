@@ -1,5 +1,7 @@
 # COMP560 Final Project
 **Ryan Huang, Wei Jiang**  
+# Final Report
+https://github.com/weijiangg/COMP560/blob/main/finalreport.pdf
 
 # Presentation
 https://docs.google.com/presentation/d/1d1_1Z8bQ6e_qwZeG6i4aYrif0xxZQZmw9Li0ckrIKs4/edit?usp=sharing
