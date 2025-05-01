@@ -14,3 +14,7 @@ Our approach leverages 28 financial variables and 14 financial ratios to train m
 
 Future work will integrate Large Language Models (LLaMA3, GPT-4o) to analyze Management Discussion & Analysis (MD&A) text, earnings call speech tones, and facial data for improved fraud detection. This research contributes to advancing fraud detection techniques and enhancing financial transparency.  
 
+## Notes
+
+Our data files are extremely large, so they are not included in the repository. However, the code used to clean, analyze, and evaluate the data are located in both the LLM folder, and New (ML methods) Folders. The final report is the pdf located in the main directory.
+
