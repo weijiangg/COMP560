@@ -7,7 +7,7 @@ import spacy
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 # Set the directory containing the CSV files
-dir_path = '/home/r_huang3/GraLNA/New/LLM/annualreport/1993/train'
+dir_path = '~/New/LLM/annualreport/1993/train'
 
 # Load the FinBERT tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained('ProsusAI/finbert')
